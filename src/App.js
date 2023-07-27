@@ -1,6 +1,10 @@
+import ComingSoonPage from "./components/coming-soon-page/ComingSoonPage";
+
 function App() {
   return (
-    <div></div>
+    <div>
+    <ComingSoonPage/>
+    </div>
   );
 }
 
